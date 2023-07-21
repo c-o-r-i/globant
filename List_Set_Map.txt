@@ -1,0 +1,15 @@
+
+-Listas
+  
+-Conjuntos (Set)
+No permiten elementos duplicados (dado que cada atributo cuenta con un hash)
+  -TreeSet
+  -linkedHashSet (se enlaza un objeto al siguiente. No se pueden ordenar de forma natural)
+  -hashSet (No se pueden ordenar de forma natural)
+
+-Mapas
+  Tienen que tener una llave y un tipo de dato.
+    SortedMap
+    TreeMap
+    HashMap
+    LinkedHashMap (se enlaza un objeto al siguiente)
